@@ -1,0 +1,29 @@
+Youtube Refences :
+https://www.youtube.com/watch?v=8bIsjmfMQxg
+https://www.youtube.com/watch?v=bHCHKeJ6bI8
+https://www.youtube.com/watch?v=mnxWKepOrRg&t=440s
+
+MediaWiki Api Link Whitch Type List:
+https://www.mediawiki.org/wiki/API:Lists
+
+MediaWiki Api Link Whitch Type List:
+https://www.mediawiki.org/wiki/API:Properties
+
+MediaWiki Api Link Whitch Type List:
+https://www.mediawiki.org/wiki/API:Meta
+
+other:
+http://mediawiki.org/w/api.php
+http://en.wikipedia.org/w/api.php
+http://test.wikipedia.org/w/api.php
+
+Example :-
+
+https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&titles=Rainbow
+https://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=unicorn
+
+Api of Title:
+https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&generator=search&gsrnamespace=0&gsrlimit=5&gsrsearch=%27Narendra%20Modi%27
+
+Title with Detail of Page:
+https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Narendra%20Modi&format=json
